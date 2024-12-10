@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Farsan amiri]  
+# 👋 Hi, I'm Farsan amiri  
 
 Welcome to my GitHub! I'm passionate about **coding**, **learning new technologies**, and solving **real-world problems** through software.  
 
