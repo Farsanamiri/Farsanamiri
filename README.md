@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm passionate about **coding**, **learning new technologi
 
 ## 💡 About Me  
 - 🌱 I’m currently learning **[Backend developer AI and Flutter]**.  
-- 👨‍💻 I’m working on **[Farsanamiri website]**.  
+- 👨‍💻 I’m working on **[Farsanamiri Application]**.  
 - 🔍 I’m exploring **[AI Frontend backend Android and swift development]**.  
 - 🎯 My goal is to become proficient in **[Full-stack development, data science]**.  
 - 💬 Ask me about **[topics you're confident about, e.g., Python, algorithms, problem-solving]**.  
